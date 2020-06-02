@@ -1,1 +1,1 @@
-# CompStat2020-17
+# Computational Statistics 2020 - Exercise 17
