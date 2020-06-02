@@ -1,1 +1,1 @@
-# Computational Statistics 2020 - Exercise 17
+# Computational Statistics 2020 - Problem 17
